@@ -1,0 +1,17 @@
+.\objects\dma.o: Source\DMA.c
+.\objects\dma.o: C:\00MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dma.o: C:\00MDK\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.h
+.\objects\dma.o: C:\00MDK\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h
+.\objects\dma.o: C:\00MDK\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\dma.o: C:\00MDK\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\dma.o: .\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h
+.\objects\dma.o: C:\00MDK\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\dma.o: C:\00MDK\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\dma.o: .\Include\timers.h
+.\objects\dma.o: C:\00MDK\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.h
+.\objects\dma.o: .\Include\LEDs.h
+.\objects\dma.o: .\Include\threads.h
+.\objects\dma.o: .\Source\LCD\LCD_driver.h
+.\objects\dma.o: C:\00MDK\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.H
+.\objects\dma.o: .\Include\gpio_defs.h
+.\objects\dma.o: .\Include\debug.h

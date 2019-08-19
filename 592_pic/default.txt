@@ -1,0 +1,26 @@
+high:
+average: 149.20mV
+peak2peak: 100.11
+
+low:
+average: 70.02
+peak2peak: 89.80
+
+
+g_peak:21
+high:
+average:109
+peak2peak:194.91
+
+low:
+average: 28.28
+peak2peak: 74.84
+
+
+gpeak:220
+high
+average: 276
+
+low:
+average: 163
+peak2peak: 93

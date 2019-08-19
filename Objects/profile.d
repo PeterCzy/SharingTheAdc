@@ -1,0 +1,11 @@
+.\objects\profile.o: Source\Profiler\profile.c
+.\objects\profile.o: C:\00MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\profile.o: C:\00MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\profile.o: .\Include\timers.h
+.\objects\profile.o: C:\00MDK\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.14.0\Device\Include\MKL25Z4.h
+.\objects\profile.o: C:\00MDK\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h
+.\objects\profile.o: C:\00MDK\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\profile.o: C:\00MDK\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\profile.o: .\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h
+.\objects\profile.o: Source\Profiler\region.h
+.\objects\profile.o: Source\Profiler\profile.h
